@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">AlarmManager</string>
+    <string name="seconds">Seconds...</string>
+    <string name="start">Start</string>
+    <string name="alarm_msg_one">"Alarm set in "</string>
+    <string name="alarm_msg_two">" seconds"</string>
+    <string name="alarm">Alarm...</string>
+</resources>
